@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Youtube Test Api</string>
+    <string name="youtube_api">AIzaSyAPB_I08bOf3DlyLQdPvth7BU4DRs7lQNo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
